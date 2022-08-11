@@ -1,0 +1,5 @@
+Team: USA 46 37 38     Medals: 121
+Team: UK 27 23 17     Medals: 67
+Team: China 26 18 26     Medals: 70
+Team: Russia 19 18 19     Medals: 56
+Team: Germany 17 10 15     Medals: 42
