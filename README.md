@@ -1,7 +1,7 @@
 # Archived
 Private Archived Folder
 
-UNIVERSITY OF ASIA PACIFIC | Department of Cmputer Science &amp; Engineering (Bachelor of Science in Engineering)
+UNIVERSITY OF ASIA PACIFIC | Department of Computer Science &amp; Engineering (Bachelor of Science in Engineering)
 
 JAHANGIRNAGAR UNIVERSITY | Institute of Information Technology (Professional Masters in Information Technology)
 
