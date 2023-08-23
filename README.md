@@ -130,17 +130,14 @@ JAHANGIRNAGAR UNIVERSITY | Institute of Information Technology (Professional Mas
     PMIT 6111 	Software Testing & Quality Assurance
     PMIT 6113 	Mobile Application Development
     PMIT 6217 	Wireless Networks
-    PMIT 6307 	Data Mining & Knowledge Discovery
-    
+    PMIT 6307 	Data Mining & Knowledge Discovery    
     PMIT 6104 	Database Security
     PMIT 6107 	Artificial Intelligence & Neural Network
     PMIT 6201 	Cloud & Mobile Computing
-    PMIT 6223 	IOT & Fog Computing
-        
+    PMIT 6223 	IOT & Fog Computing        
     PMIT 6204 	Cryptography & Steganography
     PMIT 6311 	Human Computer Interaction
     PMIT 6316 	Special Topics Related to ICT
-    
     PMIT 6000 	Research Project
     
 ---
@@ -158,8 +155,7 @@ JAHANGIRNAGAR UNIVERSITY | Institute of Information Technology (Professional Mas
     PMIT 6011 	Computer Architecture
     PMIT 6012 	Digital Logic Design
     PMIT 6013 	Telecommunication System
-    PMIT 6014 	Signal & Systems
-    
+    PMIT 6014 	Signal & Systems    
     PMIT 6101 	Distributed Computing
     PMIT 6102 	Distributed Database
     PMIT 6103 	Advanced Database Management System
@@ -176,7 +172,6 @@ JAHANGIRNAGAR UNIVERSITY | Institute of Information Technology (Professional Mas
     PMIT 6118 	Computer Graphics
     PMIT 6119 	Graph Theory & Application
     PMIT 6120 	Embedded System
-
     PMIT 6202 	Multimedia Asset Management System
     PMIT 6203 	Network Security
     PMIT 6205 	Cellular Network Planning
@@ -196,7 +191,6 @@ JAHANGIRNAGAR UNIVERSITY | Institute of Information Technology (Professional Mas
     PMIT 6220 	Advanced Optical communication
     PMIT 6221 	Advanced Wireless Communication
     PMIT 6222 	Advanced Satellite Communication
-
     PMIT 6301 	Computational Biology
     PMIT 6302 	Computational Geometry
     PMIT 6303 	Advanced Neuroinformatics
