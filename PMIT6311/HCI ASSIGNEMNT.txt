@@ -1,0 +1,106 @@
+1. Define UID
+2. Is UID Important? Why?
+3. What are the benefits of Good Design?
+4. Difference between direct and indirect Manipulation.
+5. Explain the three types of Objects in UID
+6. List and define the relationship between objects in UID
+7. What is an Intranet and Extranet?
+8. Define UID and Explain its importance
+9. Discuss in detail the need and essential features of direct manipulation graphical system and
+its applications?
+10.Elaborate the characteristics and principles of User Interface Design.
+11.Give the Characteristics of Web User Interface.
+12.Explain the difference between GUI and Web Interface.
+13.Give the characteristics of
+a. Intranet vs. Internet
+b. Printed vs. Webpage
+14.List common obstacles and pitfalls in interface design
+15.Give the five commandments for the people to give a good design
+16.Define Usability
+17.List Down common Usability Problems
+18.List the team members of design process
+19.Difference between the characteristics of Novice and experienced user?
+20.Difference between the characteristics of Young and old Adults
+21.List out various average human interaction speed.
+22.List down the general steps to be performed during business analysis.
+23.Difference between direct and indirect method.
+24.Define Metaphor.
+25.Give the values of design and standards.
+26.List the features of graphical menu
+27.Explain the importance of usability with its measures.
+28.What are the obstacles encountered in user interface design process? Discuss the impact of
+human characteristics in design with suitable example.
+29.Are human considerations in design is important. Justify.
+30.Write a detailed note on requirement analysis with regard to user interface.
+31.Are guidelines and standard important to good design? Explain.
+32.Explain why human characteristics are considered in screen design.
+33.Discuss in detail about structure and functions of menu with suitable illustrations.
+34.Explain about content and types of menus.
+35. What are selection controls? List them.
+36. Define window and give its characteristic features.
+37. Give the features of operable controls.
+
+38. What are mutually exclusive and non-exclusive choice controls?
+39. What are the characteristic features of a window?
+40. What type of applications utilizes textboxes? Give examples.
+41. List some methods available to create text-based web user interface.
+42. Give some examples for device-based controls.
+43. List the different presentation styles
+44. Give the situations to use check box, radio button and check box.
+45. List the characteristics of device-based control
+46. What are the two types and forms of Text Boxes?
+47. What is combinational selection/entry control? Give its usage
+48. What is the difference between tool tip and balloon tip?
+49. Mention the parts of Slider bar and give its usage
+50. State the need for device based and screens based control and explain the characteristics of them.
+51. Discuss in detail about components and presentation styles of windows with suitable illustrations.
+52. Explain how screen-based controls are used in the web interface with appropriate examples
+53. Explain windows management and give its operations.
+54. Discuss in detail about selection, custom and presentation controls
+55. Explain how to select a proper screen-based control with illustrations
+56. Explain how to select a proper device-based control with suitable illustrations.
+57.What is punctuation and hypernation of words?
+58.What is a message and explain its different types
+59.List down the response time limit for web and GUI.
+60.List out and define two types of errors.
+61.List some methods available to create text based web user interface.
+62.State the need for icon in user interface.
+63.What is a reference Help?
+64.What is internalization and what is localization.
+65.When do you have to do localization
+66.What is Accessibility?
+67.List and define the types of Accessibility.
+68.What is a seizure disorder?
+69.List and define the kinds of ICON
+70.What is a color?
+71.Explain what is RGB and HSV
+72.What is texture mapping
+73.List and define color viewing deficiency
+74.How will you choose color for textual graphic screens?
+75.Explain the need for collecting feedback and discuss how it improves the user interface
+design.
+76.Discuss briefly the guidance and assistance process in interface design
+77.What do you mean by internationalism? Discuss in detail.
+78.Define Multimedia and discuss its characteristics and usage in interface design.
+79.Explain the process of choosing color.
+80.Define ICON and discuss its characteristics and usage in interface design
+
+81.List out various accessibility issues you can have and give design for them
+82.What is the need for testing
+83.Give the scope of testing
+84.What is hypermedia
+85.Give the characteristics features of hypermedia
+86.List out some software tools for testing.
+87.List out some software tools for user interface design.
+88.What is a layout grid?
+89.Give the rules to develop layout grids.
+90.List the steps to be reviewed during testing process.
+91.What is a programmed Facade?
+92.What is a Prototype? Write briefly about various prototypes?
+93.List the different kinds of test and elaborate them.
+94.Discuss the various rules and guidelines for window Layout.
+95.Discuss the rules of web page layout.
+96.Write short notes on tools for testing?
+97.Write short notes on tools for user interface design.
+98.How will you develop and conduct a test.
+99.Elaborate the importance and purpose of usability testing.
