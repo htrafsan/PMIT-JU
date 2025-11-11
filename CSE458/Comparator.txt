@@ -1,8 +1,0 @@
- module comparator(
-	input x,
-	input y, 
-	output z 
-	); 
-	// z is a single bit comparator 
-	assign z = (~x & ~y) |(x & y); 
-	endmodule
