@@ -1,0 +1,22 @@
+CTs [Marks 20]-- Best two will be counted
+CT1: 23 June
+CT2: 28 July
+CT3 25 Aug
+Assignment [Marks 10]: Delay submission will get zero
+Assignment 1: 3rd week of July
+Assignment 2: 3rd week of Aug
+Final [60 Marks ]
+Objectives: 
+To understand the basic theory of AI and Neural Network
+Application of Different Searching techniques and Expert system
+Designing of Fuzzy Logic Controller, Genetic Algorithm, Neural Networks
+Question Pattern:
+There will be 7 questions, you have to answer any five including question 1
+
+Topics to be Covered
+Basics of AI, Expert system, Environment
+Searching: Informed and Uninformed Search
+Predicate Logic and FOL
+Fuzzy logic: Basic, Fuzzification, Defuzzification, Controller Design
+Genetic Algorithm: Basic and application of GA in real life application
+Neural Network: Perception, Logic Gate design, MLP, MP, RNN, CNN

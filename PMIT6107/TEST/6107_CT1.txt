@@ -1,0 +1,1 @@
+For a room-cleaning robot, discuss the environment and also choose an agent model on which you can design a room-cleaning robot.
