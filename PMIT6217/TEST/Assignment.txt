@@ -1,0 +1,14 @@
+Assignment1. Distinguish between 2nd, 3rd,
+4th, 5th  Generation Cellular Networks
+2. GSM architecture overview
+3. The authentication and ciphering functions in
+GSM showing the detail steps of procedures
+4. GSM  Speech Processing describing all steps like
+First and second level of interleaving
+5. Overview of
+GSM Timing Structures.
+6.  UMTS Network Architecture
+7. OFDMA Based WiMAX Network
+8. Architecture of LTE, 4G Mobile Communications
+(WiMAX and LTE)
+9. Some important features of WiMAX, and LTE

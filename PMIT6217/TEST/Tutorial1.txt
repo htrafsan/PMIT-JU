@@ -1,0 +1,16 @@
+Tutorial marks 20
+Regular Batch
+
+a)   Explain briefly the propagation of Radio waves through space
+b)   Mention some commonly used devices for wireless networking. Describe two of them.
+c) Explain at least 3 limitations of Wireless Networks. Show 6 scenarios which present a specific
+challenge or problem that comes up when working with wireless equipment.
+d)  Explain about IEEE 802.15.4 standard
+
+Tutorial marks 20
+Pre Batch
+
+a)  “Wireless LANs can operate in one of two configurations, with a base station and without a base station”. 
+Explain this statement.
+b)  Explain Infrared LANs mentioning some advantages and disadvantages
+c) Explain DSDV Packet Process Algorithm
