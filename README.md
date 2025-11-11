@@ -1,5 +1,5 @@
 # PMIT-JU
- Jahangirnagar University | Institute of Information Technology (Professional Masters in Information Technology)
+Professional Masters in Information Technology Program | Jahangirnagar University | Institute of Information Technology
 
 ---
 
