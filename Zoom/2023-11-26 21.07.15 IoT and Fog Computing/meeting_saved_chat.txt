@@ -1,0 +1,32 @@
+20:58:24 From  Sadia 232115  to  Everyone:
+	ID 232115 section A
+20:59:20 From  232101- Md. Aminul Islam  to  Everyone:
+	ID 232101 Section A
+21:00:30 From  Md Abu Huraira-232143  to  Everyone:
+	ID 232143 Md Abu Huraira
+21:02:55 From  232124 Md. Yehsun Mehedee  to  Everyone:
+	ID: 232124--Section-A
+21:03:17 From  Shupto  to  Everyone:
+	Roll: 231207 secB prerequisite
+21:08:03 From  Md Abu Huraira-232143  to  Everyone:
+	ID-232143 Section-B
+21:08:32 From  232136 - Afrida Rahman  to  Everyone:
+	ID: 232136, section: A
+21:08:52 From  232113 Nazmul Islam  to  Everyone:
+	Id: 232113 Nazmul Islam  sec-A
+21:09:02 From  232123-Smita Roy Jyoti  to  Everyone:
+	232123-Smita Roy Jyoti
+21:09:13 From  231213 Omi  to  Everyone:
+	Id : 231213 Sec B
+21:09:17 From  232109 Arijit Mondol Brinto  to  Everyone:
+	232109 Sec A
+21:09:18 From  Vaskar Rozario  to  Everyone:
+	ID: 232116, Section A
+21:09:22 From  232120- Zihan  to  Everyone:
+	232120-Zihan
+21:10:04 From  232150 - HABIBUR RAHMAN  to  Everyone:
+	ID:232150,Habibur Rahman.Section:B
+21:10:45 From  Md. Sabbir Hassan (ID- 231204)  to  Everyone:
+	ID-231204 section-B
+21:11:19 From  232127,MD NAZMUR REZA SHOIKAT  to  Everyone:
+	ID:232127 MD NAZMUR REZA SHOIKAT SECTION A
